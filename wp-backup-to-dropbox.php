@@ -2,9 +2,9 @@
 /*
 Plugin Name: WordPress Backup to Dropbox
 Plugin URI: http://wpb2d.com
-Description: Keep your valuable WordPress website, its media and database backed up in Dropbox! Need help? Please email support@wpb2d.com
-Version: 4.7.1
-Author: Michael De Wildt
+Description: THIS IS THE MODIFIED VERSION THAT WORKS WITH PHP7 as described here: https://wordpress.org/support/topic/how-to-tweak-this-plugin-for-php-7/ --- Original: Keep your valuable WordPress website, its media and database backed up in Dropbox! Need help? Please email support@wpb2d.com
+Version: 4.7.1-PHP7
+Author: Michael De Wildt, modified by Chris Mospaw
 Author URI: http://www.mikeyd.com.au
 License: Copyright 2011-2015 Awesoft Pty. Ltd. (email : michael.dewildt@gmail.com)
 
