@@ -1,3 +1,11 @@
+= NOTE =
+
+The stock plugin does not work in PHP7. This repo has changes that fix that, but might break the plugin in other versions of PHP.
+
+Changes applied as described here: https://wordpress.org/support/topic/how-to-tweak-this-plugin-for-php-7/
+
+= ORIGINAL DESCIRPTION =
+
 === WordPress Backup to Dropbox ===
 Contributors: michael.dewildt
 Donate link: https://influx.com
